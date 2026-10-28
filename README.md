@@ -51,9 +51,9 @@
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=RaidaOhara&show_icons=true&theme=tokyonight"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=LeiderCifuentes&show_icons=true&theme=tokyonight"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidaOhara&layout=compact&theme=tokyonight"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiderCifuentes&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=RaidaOhara&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=LeiderCifuentes&theme=tokyonight"/>
 
 </p>
 
