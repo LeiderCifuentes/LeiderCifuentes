@@ -19,14 +19,6 @@
 - 🚀 Always learning new technologies and building real-world applications.
 
 ---
-
-## Current Projects
-
-- 🚗 AI-powered Vehicle Marketplace Platform
-- 💰 Personal Finance App with Artificial Intelligence
-- 🤖 AI Automation & Agents
-- 🌐 Portfolio & Open Source Projects
-
 ---
 
 ## 💻 Tech Stack
